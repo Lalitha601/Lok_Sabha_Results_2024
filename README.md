@@ -2,8 +2,16 @@
 Insights created using the dataset of 2024 Lok Sabha Election using pandas and matplotlib
 
 
-Requirements: '\n'
-1.numpy'\n'
-2.pandas'\n'
-3.matplotlib'\n'
+Requirements:
+
+
+1.numpy
+
+
+2.pandas
+
+
+3.matplotlib
+
+
 4.seaborn
